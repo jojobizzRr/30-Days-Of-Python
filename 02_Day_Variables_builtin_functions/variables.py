@@ -1,4 +1,5 @@
-print(raheem;',raheem)
+print(raheem;',)
+
 # Variables in Python
 
 first_name = 'Asabeneh'
